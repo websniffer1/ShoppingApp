@@ -5,7 +5,7 @@ ul{
 }
 
 li a{
-    display: block;
+    float: left;
     width: 100px;
     color: #000000;
     background-color: grey;
