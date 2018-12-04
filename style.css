@@ -1,16 +1,16 @@
-#img1{
+.img1{
     border-width: 5px;
     border-color: blue;
     border-style: solid;
 }
 
-#img2{
+.img2{
     border-width: 5px;
     border-color: blue;
     border-style: solid;
 }
 
-#img3{
+.img3{
     border-width: 5px;
     border-color: blue;
     border-style: solid;
